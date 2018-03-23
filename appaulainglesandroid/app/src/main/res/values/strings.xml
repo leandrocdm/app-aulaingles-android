@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app-aulaingles-android</string>
+    <string name="score">Score:</string>
+    <string name="_0">0</string>
+    <string name="opcao1">Opcao1</string>
+    <string name="opcao2">Opcao2</string>
+    <string name="opcao3">Opcao3</string>
+    <string name="pular">Pular</string>
+    <string name="proximo">Proximo</string>
+    <string name="acertou">Acertou!</string>
+    <string name="errou">Errou!</string>
+</resources>
